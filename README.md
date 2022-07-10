@@ -1,6 +1,6 @@
 # LPII_Atividade-1_Geometria
 
-Discente: Anderson Alves Teixeira
+Discente: Anderson Alves
 
 Referente ao sábado letivo de 19/03.
 
